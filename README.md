@@ -1,0 +1,1 @@
+# geev-rabbitMq-workshop
